@@ -76,13 +76,15 @@ export default function Footer() {
         {/* Contact & Booking */}
         <div>
           <h3 className="text-xl font-semibold mb-3">Get In Touch</h3>
-          <p className="text-gray-400 mb-4">Email: support@acservice.com</p>
+          <p className="text-gray-400 mb-4">Email: harshdeepdeveloper@gmail.com</p>
+          <p className="text-gray-400 mb-4">Contact: +91 7589434135, +91 6284004413</p>
           <div className="flex space-x-4">
             <Link to="/booking">
               <Button label="Book Service" />
             </Link>
-            <a href="mailto:support@acservice.com">
-              <Button label="Contact Us" />
+            <a href="https://wa.me/917589434135?text=Hi%20Harshdeep,%20I%20am%20interested%20in%20your%20website%20development%20services.
+">
+              <Button label="Whatsapp Us" />
             </a>
           </div>
         </div>
@@ -90,7 +92,7 @@ export default function Footer() {
 
       {/* Footer Bottom */}
       <p className="text-center text-gray-500 mt-12">
-        &copy; 2025 AC Service. All rights reserved.
+        Demo By Developer Harsh &copy; 2025 AC Service. All rights reserved. 
       </p>
 
       {/* Click To Top Button */}
