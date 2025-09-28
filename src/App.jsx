@@ -13,13 +13,13 @@ import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndConditions from "./pages/TermsAndConditions";
 
 // Admin Pages
-import AdminDashboard from "./pages/admin/Dashboard";
-import AdminLogin from "./pages/admin/Login";
-import AdminServices from "./pages/admin/Services";
-import AdminBookings from "./pages/admin/Bookings";
-import AdminPackages from "./pages/admin/Packages";
-import AdminCustomer from "./pages/admin/Customers";
-import AdminContent from "./pages/admin/Content";
+import AdminLogin from "./pages/Admin/Login";
+import AdminDashboard from "./pages/Admin/Dashboard";
+import AdminServices from "./pages/Admin/Services";
+import AdminBookings from "./pages/Admin/Bookings";
+import AdminPackages from "./pages/Admin/Packages";
+import AdminCustomer from "./pages/Admin/Customers";
+import AdminContent from "./pages/Admin/Content";
 
 // Layout Components
 import Navbar from "./components/layout/Navbar";
